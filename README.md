@@ -12,6 +12,10 @@ __SMS would generate the Open edX accounts for all the students, also automatica
 
 _In this case, they don't need to do the (sign-up, sign-in, activate their account) steps._
 
+4. After that, teacher can download students' information which also include their students' Open edX account and PWD (student can modify PWD later).
+
+5. Generate the student ID, this part also would be used in ALP (Adaptive Lessor Planner).
+
 This is a powerful tools that has been used in 5 schools studies.
 
 __Notice: it won't work properly unless the machine that host SMS inside TAMU network.__
