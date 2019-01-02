@@ -16,7 +16,7 @@ _In this case, they don't need to do the (sign-up, sign-in, activate their accou
 
 5. Generate the student ID, this part also would be used in ALP (Adaptive Lessor Planner).
 
-This is a powerful tools that has been used in 5 schools studies.
+This tool that has been used in 5 schools studies.
 
 __Notice: it won't work properly unless the machine that host SMS inside TAMU network.__
 
